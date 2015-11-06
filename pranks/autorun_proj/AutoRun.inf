@@ -1,5 +1,0 @@
-[autorun] 
-icon=drive.ico
-open=launch.bat
-action=Error: Uncaught exception 0x8f7dd5. Press OK to continue.
-shell\open\command=launch.bat
