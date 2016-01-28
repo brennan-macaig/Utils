@@ -39,7 +39,7 @@ A+-801 Flash-card guide
 |801|[Link](http://goo.gl/IJEGl7)|
 |801|[Link](https://www.4tests.com/core)
 |801-802|***Timed test!*** [Link](http://www.proprofs.com/certification/comptia/a-plus/exams/HW-E1/exam.shtml)|
-
+|801-802|***Downloaded, timed, full practice*** [Link](https://drive.google.com/open?id=0B0o4pGbpmvpFekkwclJWTW5KZjg&authuser=0)
 ## Other handy-dandy links
 
 * [801-802 Flash Card Review](https://quizlet.com/9522789/a-multiple-choice-test-questions-flash-cards/)
