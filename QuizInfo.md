@@ -1,9 +1,6 @@
 A+-801 Flash-card guide
 =================
 
-Please note that I am not responsible for inaccuracies in the flash-cards. I did not make them, I just found them.
-
-
 ## The Big List of Chapter Review
 
 | Chapter | Reading | Flash Cards | Question set(s) |
@@ -26,6 +23,11 @@ Please note that I am not responsible for inaccuracies in the flash-cards. I did
 |Chapter 16: NTFS Users & Groups|[Read: PDF](https://drive.google.com/open?id=0B0o4pGbpmvpFbC01dWZ2elUtSGs&authuser=0)|[Link](https://quizlet.com/20773138/chapter-16-review-ntfsusers-and-groups-flash-cards/)|[Link](http://goo.gl/forms/LyeGdSoUWk)|
 |Chapter 17: Optimizing Windows|[Read: PDF](https://drive.google.com/open?id=0B0o4pGbpmvpFcDZWdV83M0J1RUE&authuser=0)|[Link](https://quizlet.com/21214241/chapter-17-maintaining-and-optimizing-windows-flash-cards/)|[Link](http://goo.gl/forms/sppqsfTMlD)
 |Chapter 18: Command Line|[Read: PDF](https://drive.google.com/open?id=0B0o4pGbpmvpFV1VXVnVmTkJnUlE&authuser=0)|[Link](https://quizlet.com/88021918/chapter-18-working-with-the-command-line-interface-flash-cards/)|[Link](https://docs.google.com/a/concordnhschools.net/forms/d/1C_XIuh0D2wdDkpdwaHp8kjelL_sE288wNqClTBNo1CQ/viewform?hr_submission=ChQIgMSTWxINCOzPx8MBEgUIzJjHXBAB&authuser=0)|
+|Chapter 21: Video|*Coming soon!*|[Link](https://quizlet.com/44322441/comptia-a-chapter-21-flash-cards/)|*Not Available :(*|
+|Chapter 23: Wireless Networking|*Coming soon!*|[Link](https://quizlet.com/44812548/comptia-a-chapter-23-flash-cards/)|*Not Available :(*|
+|Chapter 28: Printers|*Coming soon!*|[Link](https://quizlet.com/45441381/comptia-a-chapter-28-flash-cards/)|*Not Available :(*|
+
+
 
 ## The Big List of Practice Tests
 
