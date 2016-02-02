@@ -11,7 +11,7 @@ Packet tracer can be found [HERE](https://www.netacad.com/group/offerings/packet
 ### Chapter 1
 
 **Assignments**
-
+*[purple](www.purple.com)
 * [1.0.1.2 Class Activity: Draw your Concept of the Internet](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/1.0.1.2%20Class%20Activity%20-%20Draw%20Your%20Concept%20of%20the%20Internet.pdf)
 * [1.1.1.8 LAB: Researching Network Collaboaration Tools](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/1.1.1.8%20Lab%20-%20Researching%20Network%20Collaboration%20Tools.pdf)
 * [1.2.4.4 Packet Tracer Help and Navigation](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/1.2.4.4%20Packet%20Tracer%20-%20Help%20and%20Navigation%20Tips.pdf)
