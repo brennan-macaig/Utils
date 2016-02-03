@@ -1,17 +1,25 @@
 Cisco Network Academy
 ===============
-### PACKET TRACER
-
-Packet tracer can be found [HERE](https://www.netacad.com/group/offerings/packet-tracer). *Available for Windows, Mac, Linux (Debian/Ubuntu) as well as iOS and Android.**
-
-
 ### Table of Contents
-* [Chapter 1]()
+* [Tools](#tools)
+* [About This Page](#about)
+* [Chapter 1](#chapter1)
 
-### Chapter 1
+
+------------------------
+
+### <a name="tools"></a>Tools
+
+**Packet Tracer** can be downloaded from [this link](https://www.netacad.com/group/offerings/packet-tracer). Packet tracer supports Windows, Mac, Linux (Debian/Ubuntu official, others have ports), Android and iOS are also supported. ***You must log in to NetAcademy to download Packet Tracer!***
+
+### <a name="about"></a>About
+
+This file is the brainchild of Zach, Brennan, Sean and Justin. If you wish to edit this page, creat a github account and make a pull request. This page is made in Markdown - [you can learn that here.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+### <a name="chapter1"></a>Chapter 1
 
 **Assignments**
-*[purple](purple.com)
+
 * [1.0.1.2 Class Activity: Draw your Concept of the Internet](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/1.0.1.2%20Class%20Activity%20-%20Draw%20Your%20Concept%20of%20the%20Internet.pdf)
 * [1.1.1.8 LAB: Researching Network Collaboaration Tools](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/1.1.1.8%20Lab%20-%20Researching%20Network%20Collaboration%20Tools.pdf)
 * [1.2.4.4 Packet Tracer Help and Navigation](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/1.2.4.4%20Packet%20Tracer%20-%20Help%20and%20Navigation%20Tips.pdf)
@@ -19,7 +27,6 @@ Packet tracer can be found [HERE](https://www.netacad.com/group/offerings/packet
 * [1.3.1.3 Researching Converged Networking Services](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/1.3.1.3%20Lab%20-%20Researching%20Converged%20Network%20Services.pdf)
 * [1.4.4.3 Researching IT and Networking Jobs](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/1.4.4.3%20Lab%20-%20Researching%20IT%20and%20Networking%20Job%20Opportunities.pdf)
 * [1.5.1.1 Class Activity: Draw your Concept of the Internet Now](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/1.5.1.1%20Class%20Activity%20-%20Draw%20Your%20Concept%20of%20the%20Internet%20Now.pdf)
-
 
 **Extras**
 
