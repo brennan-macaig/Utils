@@ -14,7 +14,7 @@ Cisco Network Academy
 
 ### <a name="about"></a>About
 
-This file is the brainchild of Zach, Brennan, Sean and Justin. If you wish to edit this page, creat a github account and make a pull request. This page is made in Markdown - [you can learn that here.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+This file is the brainchild of Zach, Brennan, Sean and Justin. If you wish to edit this page, create a github account and make a pull request. This page is made in Markdown - [you can learn that here.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ### <a name="chapter1"></a>Chapter 1
 
