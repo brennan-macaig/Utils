@@ -47,4 +47,4 @@ This file is the brainchild of Zach,Shia LaBeouf, Brennan, Sean and Justin. If y
 * [2.3.3.4 Lab](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/2.3.3.4%20Lab%20-%20Configuring%20a%20Switch%20Management%20Address.pdf)
 * [2.4.1.1 Class Activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/2.4.1.1%20Class%20Activity%20-%20Tutor%20me!.pdf)
 * [2.4.1.2 Packet Tracer](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/2.4.1.2%20Packet%20Tracer%20-%20Skills%20Integration%20Challenge.pdf)
-
+*[check answers to assignments here}(https://sites.google.com/site/kristenscomputerscience/cisco-networking/network-models)
