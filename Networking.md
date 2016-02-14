@@ -5,9 +5,9 @@ Cisco Network Academy
 * [About This Page](#about)
 * [Chapter 1](#chapter1)
 * [Chapter 2](#chapter2)
-* [Chapter 3](#chapter2)
-* [Chapter 4](#chapter4)
-* [Chapter 5](#chapter5)
+* [Chapter 3](#Chapter3)
+* [Chapter 4](#Chapter4)
+* [Chapter 5](#Chapter5)
 
 ------------------------
 
