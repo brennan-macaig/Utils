@@ -65,3 +65,11 @@ PKA files neccesary for chapter 2 packet tracer assignments
 
 * [3.0.1.2 activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/3.0.1.2%20Class%20Activity%20-%20Designing%20a%20Communications%20System.pdf)
 * [3.2.3.4 lab](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/3.2.3.4%20Lab%20-%20Researching%20Networking%20Standards.pdf)
+
+### <a name="Chapter 4"></a>Chapter 4
+**Assignments**
+
+### <a name="Chapter 5"></a>Chapter 5
+**Assignments**
+
+COMING SOON!
