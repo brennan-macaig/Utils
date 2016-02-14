@@ -5,9 +5,9 @@ Cisco Network Academy
 * [About This Page](#about)
 * [Chapter 1](#chapter1)
 * [Chapter 2](#chapter2)
-* [Chapter 3](#Chapter3)
-* [Chapter 4](#Chapter4)
-* [Chapter 5](#Chapter5)
+* [Chapter 3](#chapter3)
+* [Chapter 4](#chapter4)
+* [Chapter 5](#chapter5)
 
 ------------------------
 
@@ -52,7 +52,7 @@ This file is the brainchild of Zach LaBeouf,Shia LaBeouf, Brennan, Sean and Just
 * [check answers to assignments here](https://sites.google.com/site/kristenscomputerscience/cisco-networking/network-models)
 
 
-### <a name="chapter2"></a>Chapter 2
+### <a name="chapter2PKA"></a>Chapter 2PKA
 **PKA FILES**
 PKA files neccesary for chapter 2 packet tracer assignments 
 * [2.1.4.6 PKA file](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/2.1.4.6%20Packet%20Tracer%20-%20Navigating%20the%20IOS.pka)
@@ -60,16 +60,16 @@ PKA files neccesary for chapter 2 packet tracer assignments
 * [2.3.2.5 PKA file](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/2.3.2.5%20Packet%20Tracer%20-%20Implementing%20Basic%20Connectivity.pka)
 * [2.4.1.2 PKA file](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/2.4.1.2%20Packet%20Tracer%20-%20Skills%20Integration%20Challenge.pka)
 
-### <a name="Chapter 3"></a>Chapter 3
+### <a name="chapter3"></a>Chapter 3
 **Assignments**
 
 * [3.0.1.2 activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/3.0.1.2%20Class%20Activity%20-%20Designing%20a%20Communications%20System.pdf)
 * [3.2.3.4 lab](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/3.2.3.4%20Lab%20-%20Researching%20Networking%20Standards.pdf)
 
-### <a name="Chapter 4"></a>Chapter 4
+### <a name="chapter4"></a>Chapter 4
 **Assignments**
 
-### <a name="Chapter 5"></a>Chapter 5
+### <a name="chapter5"></a>Chapter 5
 **Assignments**
 
 COMING SOON!
