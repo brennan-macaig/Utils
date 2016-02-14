@@ -48,12 +48,18 @@ This file is the brainchild of Zach LaBeouf,Shia LaBeouf, Brennan, Sean and Just
 * [2.4.1.1 Class Activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/2.4.1.1%20Class%20Activity%20-%20Tutor%20me!.pdf)
 * [2.4.1.2 Packet Tracer](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/2.4.1.2%20Packet%20Tracer%20-%20Skills%20Integration%20Challenge.pdf)
 * [check answers to assignments here](https://sites.google.com/site/kristenscomputerscience/cisco-networking/network-models)
-PKA files neccesary for packet tracer assignments will be included below
+
+
+### <a name="chapter2"></a>Chapter 2
+**PKA FILES**
+PKA files neccesary for chapter 2 packet tracer assignments 
 * [2.1.4.6 PKA file](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/2.1.4.6%20Packet%20Tracer%20-%20Navigating%20the%20IOS.pka)
 * [2.2.3.4 PKA file](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/2.2.3.4%20Packet%20Tracer%20-%20Configuring%20Initial%20Switch%20Settings.pka)
 * [2.3.2.5 PKA file](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/2.3.2.5%20Packet%20Tracer%20-%20Implementing%20Basic%20Connectivity.pka)
 * [2.4.1.2 PKA file](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/2.4.1.2%20Packet%20Tracer%20-%20Skills%20Integration%20Challenge.pka)
+
 ### <a name="Chapter 3"></a>Chapter 3
 **Assignments**
+
 * [3.0.1.2 activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/3.0.1.2%20Class%20Activity%20-%20Designing%20a%20Communications%20System.pdf)
 * [3.2.3.4 lab](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/3.2.3.4%20Lab%20-%20Researching%20Networking%20Standards.pdf)
