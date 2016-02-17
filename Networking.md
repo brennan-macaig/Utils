@@ -17,7 +17,7 @@ Cisco Network Academy
 
 ### <a name="about"></a>About
 
-This file is the brainchild of Zach LaBeouf,Shia LaBeouf https://i.ytimg.com/vi/CLOpX2cu-4g/maxresdefault.jpg
+This file is the brainchild of Zach LaBeouf,Shia LaBeouf ![Image of Shrek] (http://www.reddit.com/r/reactiongifs/comments/3t244x/mrw_my_fianc%C3%83%C2%A9e_told_me_she_had_a_sex_dream_about/)
 
 , Brennan, Sean and Justin. If you wish to edit this page, create a github account and make a pull request. This page is made in Markdown - [you can learn that here.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
