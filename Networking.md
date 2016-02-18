@@ -83,4 +83,20 @@ PKA files neccesary for chapter 2 packet tracer assignments
 ### <a name="chapter5"></a>Chapter 5
 **Assignments**
 * [5.0 activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.0.1.2%20Class%20Activity%20-%20Join%20My%20Social%20Circle.pdf)
+* [5.1.1.7 lab](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.1.1.7%20Lab%20-%20Using%20Wireshark%20to%20Examine%20Ethernet%20Frames.pdf)
+* [5.1.2.8 lab](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.1.2.8%20Lab%20-%20Viewing%20Network%20Device%20MAC%20Addresses.pdf)
+* [5.2.1.4 video](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.2.1.4%20Video%20Slides%20-%20MAC%20Address%20Tables%20on%20Connected%20Switches.pdf)
+* [5.2.1.5 video](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.2.1.5%20Video%20Slides%20-%20Sending%20a%20Frame%20to%20the%20Default%20Gateway.pdf)
+* [5.2.1.4 activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/index.html#5.2.1.6)
+* [5.2.1.7 lab](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.2.1.7%20Lab%20-%20Viewing%20the%20Switch%20MAC%20Address%20Table.pdf)
+* [5.2.2.4 activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/index.html#5.2.2.4)
+* [5.3.2.3 video](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.3.2.3%20Video%20Slides%20-%20ARP%20Operation%20-%20ARP%20Request.pdf)
+* [5.3.2.4 video](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.3.2.4%20Video%20Slides%20-%20ARP%20Operation%20-%20ARP%20Reply.pdf)
+* [5.3.2.5 video](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.3.2.5%20Video%20Slides%20-%20ARP%20Role%20in%20Remote%20Communication.pdf)
+* [5.4.1.1 activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.4.1.1%20Class%20Activity%20-%20MAC%20and%20Choose.pdf)
 
+**Packet Tracer**
+* [5.3.1.3 instructions](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.3.1.3%20Packet%20Tracer%20-%20Identify%20MAC%20and%20IP%20Addresses.pdf)
+* [5.3.1.3 pka](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.3.1.3%20Packet%20Tracer%20-%20Identify%20MAC%20and%20IP%20Addresses.pka)
+* [5.3.2.8 inbstructions](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.3.2.8%20Packet%20Tracer%20-%20Examine%20the%20ARP%20Table.pdf)
+* [5.3.2.6 pka](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.3.2.8%20Packet%20Tracer%20-%20Examine%20the%20ARP%20Table.pka)
