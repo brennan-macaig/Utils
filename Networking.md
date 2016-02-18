@@ -64,21 +64,21 @@ PKA files neccesary for chapter 2 packet tracer assignments
 **Assignments**
 | assignment | PKA file|
 |:--------|:--------|
-* [3.0.1.2 activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/3.0.1.2%20Class%20Activity%20-%20Designing%20a%20Communications%20System.pdf)
-* [3.2.3.4 lab](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/3.2.3.4%20Lab%20-%20Researching%20Networking%20Standards.pdf)
+* [3.0.1.2 Activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/3.0.1.2%20Class%20Activity%20-%20Designing%20a%20Communications%20System.pdf)
+* [3.2.3.4 Lab](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/3.2.3.4%20Lab%20-%20Researching%20Networking%20Standards.pdf)
 
 ### <a name="chapter4"></a>Chapter 4
 **Assignments**
-* [4.0 activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/4.0.1.2%20Class%20Activity%20-%20Managing%20the%20Medium.pdf)
-* [4.1 lab](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/4.1.2.4%20Lab%20-%20Identifying%20Network%20Devices%20and%20Cabling.pdf)
-* [4.1.3.5 activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/index.html#4.1.3.5)
-* [4.2.2.7 lab](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/4.2.2.7%20Lab%20-%20Building%20an%20Ethernet%20Crossover%20Cable.pdf)
-* [4.2.4.5 lab](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/4.2.4.5%20Lab%20-%20Viewing%20Wired%20and%20Wireless%20NIC%20Information.pdf)
-* [4.5.1.1 activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/4.5.1.1%20Class%20Activity%20-%20Linked%20In!.pdf)
+* [4.0.0.0 Activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/4.0.1.2%20Class%20Activity%20-%20Managing%20the%20Medium.pdf)
+* [4.1.0.0 Lab](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/4.1.2.4%20Lab%20-%20Identifying%20Network%20Devices%20and%20Cabling.pdf)
+* [4.1.3.5 Activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/index.html#4.1.3.5)
+* [4.2.2.7 Lab](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/4.2.2.7%20Lab%20-%20Building%20an%20Ethernet%20Crossover%20Cable.pdf)
+* [4.2.4.5 Lab](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/4.2.4.5%20Lab%20-%20Viewing%20Wired%20and%20Wireless%20NIC%20Information.pdf)
+* [4.5.1.1 Activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/4.5.1.1%20Class%20Activity%20-%20Linked%20In!.pdf)
 
 **Packet Tracer**
 * [4.2.4.4 Instruction](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/4.2.4.4%20Packet%20Tracer%20-%20Connecting%20a%20Wired%20and%20Wireless%20LAN.pdf)
-* [4.2.4.4 PKA](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/4.2.4.4%20Packet%20Tracer%20-%20Connecting%20a%20Wired%20and%20Wireless%20LAN.pka)
+* [4.2.4.4 PKA File](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/4.2.4.4%20Packet%20Tracer%20-%20Connecting%20a%20Wired%20and%20Wireless%20LAN.pka)
 
 ### <a name="chapter5"></a>Chapter 5
 **Assignments**
