@@ -40,11 +40,13 @@ This file is the brainchild of Zach LaBeouf,Shia LaBeouf, Brennan, Sean and Just
 ### <a name="chapter2"></a>Chapter 2
 **Assignments**
 
-* [2.0.1.2 Class Activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/2.0.1.2%20Class%20Activity%20-%20It%20is%20Just%20an%20Operating%20System.pdf)
-* [2.1.4.7 Lab ](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/2.1.4.7%20Lab%20-%20Establishing%20a%20Console%20Session%20with%20Tera%20Term.pdf)
-* [2.3.3.3 Lab](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/2.3.3.3%20Lab%20-%20Building%20a%20Simple%20Network.pdf)
-* [2.3.3.4 Lab](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/2.3.3.4%20Lab%20-%20Configuring%20a%20Switch%20Management%20Address.pdf)
-* [2.4.1.1 Class Activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/2.4.1.1%20Class%20Activity%20-%20Tutor%20me!.pdf)
+* [2.0.1.2 Class Activity: It is Just an Operating System](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/2.0.1.2%20Class%20Activity%20-%20It%20is%20Just%20an%20Operating%20System.pdf)
+* [2.1.4.7 Lab: Establishing a Console Session with Terra Term](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/2.1.4.7%20Lab%20-%20Establishing%20a%20Console%20Session%20with%20Tera%20Term.pdf)
+* [2.3.3.3 Lab: Building a Simple Network](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/2.3.3.3%20Lab%20-%20Building%20a%20Simple%20Network.pdf)
+* [2.3.3.4 Lab: Configuring a Switch Management Address](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/2.3.3.4%20Lab%20-%20Configuring%20a%20Switch%20Management%20Address.pdf)
+* [2.4.1.1 Class Activity: Tutor Me](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/2.4.1.1%20Class%20Activity%20-%20Tutor%20me!.pdf)
+ 
+**Extras**
 * [check answers to assignments here](https://sites.google.com/site/kristenscomputerscience/cisco-networking/network-models)
 
 
@@ -69,12 +71,12 @@ PKA files neccesary for chapter 2 packet tracer assignments
 
 ### <a name="chapter4"></a>Chapter 4
 **Assignments**
-* [4.0.0.0 Activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/4.0.1.2%20Class%20Activity%20-%20Managing%20the%20Medium.pdf)
-* [4.1.0.0 Lab](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/4.1.2.4%20Lab%20-%20Identifying%20Network%20Devices%20and%20Cabling.pdf)
-* [4.1.3.5 Activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/index.html#4.1.3.5)
-* [4.2.2.7 Lab](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/4.2.2.7%20Lab%20-%20Building%20an%20Ethernet%20Crossover%20Cable.pdf)
-* [4.2.4.5 Lab](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/4.2.4.5%20Lab%20-%20Viewing%20Wired%20and%20Wireless%20NIC%20Information.pdf)
-* [4.5.1.1 Activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/4.5.1.1%20Class%20Activity%20-%20Linked%20In!.pdf)
+* [4.0.0.0 Class Activity: Managing the Medium](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/4.0.1.2%20Class%20Activity%20-%20Managing%20the%20Medium.pdf)
+* [4.1.0.0 Lab: Identifying Network Devices and Cabling](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/4.1.2.4%20Lab%20-%20Identifying%20Network%20Devices%20and%20Cabling.pdf)
+* [4.1.3.5 Activity: Physical Layer Termonology](https://static-course-assets.s3.amazonaws.com/ITN51/en/index.html#4.1.3.5)
+* [4.2.2.7 Lab: Building an Ethernet Crossover Cable](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/4.2.2.7%20Lab%20-%20Building%20an%20Ethernet%20Crossover%20Cable.pdf)
+* [4.2.4.5 Lab: Viewing Wired and Wireless NIC Information](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/4.2.4.5%20Lab%20-%20Viewing%20Wired%20and%20Wireless%20NIC%20Information.pdf)
+* [4.5.1.1 Class Activity: Linked In](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/4.5.1.1%20Class%20Activity%20-%20Linked%20In!.pdf)
 
 **Packet Tracer**
 * [4.2.4.4 Instruction](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/4.2.4.4%20Packet%20Tracer%20-%20Connecting%20a%20Wired%20and%20Wireless%20LAN.pdf)
@@ -82,20 +84,20 @@ PKA files neccesary for chapter 2 packet tracer assignments
 
 ### <a name="chapter5"></a>Chapter 5
 **Assignments**
-* [5.0.0.0 Class Activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.0.1.2%20Class%20Activity%20-%20Join%20My%20Social%20Circle.pdf)
-* [5.1.1.5 Activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/index.html#5.1.1.5)
-* [5.1.1.6 Activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/index.html#5.1.1.6)
-* [5.1.1.7 Lab](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.1.1.7%20Lab%20-%20Using%20Wireshark%20to%20Examine%20Ethernet%20Frames.pdf)
-* [5.1.2.8 Lab](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.1.2.8%20Lab%20-%20Viewing%20Network%20Device%20MAC%20Addresses.pdf)
+* [5.0.0.0 Class Activity: Join My Social Circle](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.0.1.2%20Class%20Activity%20-%20Join%20My%20Social%20Circle.pdf)
+* [5.1.1.5 Activity: MAC and LLC Sublayers](https://static-course-assets.s3.amazonaws.com/ITN51/en/index.html#5.1.1.5)
+* [5.1.1.6 Activity: Ethernet Frame Fields](https://static-course-assets.s3.amazonaws.com/ITN51/en/index.html#5.1.1.6)
+* [5.1.1.7 Lab: Using Wireshark to Examine Ethernet Frames](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.1.1.7%20Lab%20-%20Using%20Wireshark%20to%20Examine%20Ethernet%20Frames.pdf)
+* [5.1.2.8 Lab: Viewing Network Device MAC Addresses](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.1.2.8%20Lab%20-%20Viewing%20Network%20Device%20MAC%20Addresses.pdf)
 * [5.2.1.4 Video](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.2.1.4%20Video%20Slides%20-%20MAC%20Address%20Tables%20on%20Connected%20Switches.pdf)
 * [5.2.1.5 Video](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.2.1.5%20Video%20Slides%20-%20Sending%20a%20Frame%20to%20the%20Default%20Gateway.pdf)
-* [5.2.1.6 Activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/index.html#5.2.1.6)
-* [5.2.1.7 Lab](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.2.1.7%20Lab%20-%20Viewing%20the%20Switch%20MAC%20Address%20Table.pdf)
-* [5.2.2.4 Activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/index.html#5.2.2.4)
+* [5.2.1.6 Activity: Switch It!](https://static-course-assets.s3.amazonaws.com/ITN51/en/index.html#5.2.1.6)
+* [5.2.1.7 Lab: Viewing the Switch MAC Address Table](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.2.1.7%20Lab%20-%20Viewing%20the%20Switch%20MAC%20Address%20Table.pdf)
+* [5.2.2.4 Activity: Frame Forwarding Methods](https://static-course-assets.s3.amazonaws.com/ITN51/en/index.html#5.2.2.4)
 * [5.3.2.3 Video](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.3.2.3%20Video%20Slides%20-%20ARP%20Operation%20-%20ARP%20Request.pdf)
 * [5.3.2.4 Video](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.3.2.4%20Video%20Slides%20-%20ARP%20Operation%20-%20ARP%20Reply.pdf)
 * [5.3.2.5 Video](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.3.2.5%20Video%20Slides%20-%20ARP%20Role%20in%20Remote%20Communication.pdf)
-* [5.4.1.1 Class Activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.4.1.1%20Class%20Activity%20-%20MAC%20and%20Choose.pdf)
+* [5.4.1.1 Class Activity: MAC and Choose](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.4.1.1%20Class%20Activity%20-%20MAC%20and%20Choose.pdf)
 
 **Packet Tracer**
 * [5.3.1.3 Instructions](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.3.1.3%20Packet%20Tracer%20-%20Identify%20MAC%20and%20IP%20Addresses.pdf)
