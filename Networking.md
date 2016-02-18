@@ -89,14 +89,14 @@ PKA files neccesary for chapter 2 packet tracer assignments
 * [5.1.1.6 Activity: Ethernet Frame Fields](https://static-course-assets.s3.amazonaws.com/ITN51/en/index.html#5.1.1.6)
 * [5.1.1.7 Lab: Using Wireshark to Examine Ethernet Frames](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.1.1.7%20Lab%20-%20Using%20Wireshark%20to%20Examine%20Ethernet%20Frames.pdf)
 * [5.1.2.8 Lab: Viewing Network Device MAC Addresses](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.1.2.8%20Lab%20-%20Viewing%20Network%20Device%20MAC%20Addresses.pdf)
-* [5.2.1.4 Video](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.2.1.4%20Video%20Slides%20-%20MAC%20Address%20Tables%20on%20Connected%20Switches.pdf)
-* [5.2.1.5 Video](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.2.1.5%20Video%20Slides%20-%20Sending%20a%20Frame%20to%20the%20Default%20Gateway.pdf)
+* [5.2.1.4 Video](https://static-course-assets.s3.amazonaws.com/ITN51/en/index.html#5.2.1.4)
+* [5.2.1.5 Video](https://static-course-assets.s3.amazonaws.com/ITN51/en/index.html#5.2.1.5)
 * [5.2.1.6 Activity: Switch It!](https://static-course-assets.s3.amazonaws.com/ITN51/en/index.html#5.2.1.6)
 * [5.2.1.7 Lab: Viewing the Switch MAC Address Table](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.2.1.7%20Lab%20-%20Viewing%20the%20Switch%20MAC%20Address%20Table.pdf)
 * [5.2.2.4 Activity: Frame Forwarding Methods](https://static-course-assets.s3.amazonaws.com/ITN51/en/index.html#5.2.2.4)
-* [5.3.2.3 Video](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.3.2.3%20Video%20Slides%20-%20ARP%20Operation%20-%20ARP%20Request.pdf)
+* [5.3.2.3 Video](https://static-course-assets.s3.amazonaws.com/ITN51/en/index.html#5.3.2.3)
 * [5.3.2.4 Video](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.3.2.4%20Video%20Slides%20-%20ARP%20Operation%20-%20ARP%20Reply.pdf)
-* [5.3.2.5 Video](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.3.2.5%20Video%20Slides%20-%20ARP%20Role%20in%20Remote%20Communication.pdf)
+* [5.3.2.5 Video](https://static-course-assets.s3.amazonaws.com/ITN51/en/index.html#5.3.2.4)
 * [5.4.1.1 Class Activity: MAC and Choose](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.4.1.1%20Class%20Activity%20-%20MAC%20and%20Choose.pdf)
 
 **Packet Tracer**
