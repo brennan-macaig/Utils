@@ -95,7 +95,7 @@ PKA files neccesary for chapter 2 packet tracer assignments
 * [5.2.1.7 Lab: Viewing the Switch MAC Address Table](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.2.1.7%20Lab%20-%20Viewing%20the%20Switch%20MAC%20Address%20Table.pdf)
 * [5.2.2.4 Activity: Frame Forwarding Methods](https://static-course-assets.s3.amazonaws.com/ITN51/en/index.html#5.2.2.4)
 * [5.3.2.3 Video](https://static-course-assets.s3.amazonaws.com/ITN51/en/index.html#5.3.2.3)
-* [5.3.2.4 Video](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.3.2.4%20Video%20Slides%20-%20ARP%20Operation%20-%20ARP%20Reply.pdf)
+* [5.3.2.4 Video](https://static-course-assets.s3.amazonaws.com/ITN51/en/index.html#5.3.2.4)
 * [5.3.2.5 Video](https://static-course-assets.s3.amazonaws.com/ITN51/en/index.html#5.3.2.4)
 * [5.4.1.1 Class Activity: MAC and Choose](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/5.4.1.1%20Class%20Activity%20-%20MAC%20and%20Choose.pdf)
 
