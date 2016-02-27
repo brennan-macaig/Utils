@@ -37,7 +37,6 @@ A+-801 Flash-card guide
 |801|[Link](https://crucialexams.com/study/tests/220-801/comptia-a-plus-220-801-test-1)|
 |802|[Link](https://crucialexams.com/study/tests/220-802/comptia-a-plus-220-802-test-1)|
 |801|[Link](http://goo.gl/IJEGl7)|
-|801|[Link](https://www.4tests.com/core)
 |801-802|***Timed test!*** [Link](http://www.proprofs.com/certification/comptia/a-plus/exams/HW-E1/exam.shtml)|
 |801-802|***Downloaded, timed, full practice*** [Link](https://drive.google.com/open?id=0B0o4pGbpmvpFekkwclJWTW5KZjg&authuser=0)
 ## Other handy-dandy links
