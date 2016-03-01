@@ -64,10 +64,11 @@ PKA files neccesary for chapter 2 packet tracer assignments
 
 ### <a name="chapter3"></a>Chapter 3
 **Assignments**
-| assignment | PKA file|
-|:--------|:--------|
-* [3.0.1.2 Activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/3.0.1.2%20Class%20Activity%20-%20Designing%20a%20Communications%20System.pdf)
-* [3.2.3.4 Lab](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/3.2.3.4%20Lab%20-%20Researching%20Networking%20Standards.pdf)
+
+| Assignment | PKA File |
+|:-----------|:---------|
+|[3.0.1.2 Activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/3.0.1.2%20Class%20Activity%20-%20Designing%20a%20Communications%20System.pdf)|[Link](__DEAD_LINK__)|
+|[3.2.3.4 Lab](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/3.2.3.4%20Lab%20-%20Researching%20Networking%20Standards.pdf)|[Link](__DEAD_LINK__)|
 
 ### <a name="chapter4"></a>Chapter 4
 **Assignments**
