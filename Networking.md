@@ -69,6 +69,11 @@ PKA files neccesary for chapter 2 packet tracer assignments
 |:-----------|:---------|
 |[3.0.1.2 Activity](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/3.0.1.2%20Class%20Activity%20-%20Designing%20a%20Communications%20System.pdf)|[Link](__DEAD_LINK__)|
 |[3.2.3.4 Lab](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/3.2.3.4%20Lab%20-%20Researching%20Networking%20Standards.pdf)|[Link](__DEAD_LINK__)|
+https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/3.2.4.6%20Packet%20Tracer%20-%20Investigating%20the%20TCP-IP%20and%20OSI%20Models%20in%20Action.pdf
+
+https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/3.4.1.2%20Lab%20-%20Using%20Wireshark%20to%20View%20Network%20Traffic.pdf
+
+https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/3.4.1.3%20Class%20Activity%20-%20Guaranteed%20to%20Work!.pdf
 
 ### <a name="chapter4"></a>Chapter 4
 **Assignments**
