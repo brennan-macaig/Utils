@@ -75,6 +75,8 @@ https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/3.4.1.2%20La
 
 https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/3.4.1.3%20Class%20Activity%20-%20Guaranteed%20to%20Work!.pdf
 
+chapt 3 test answer key http://www.ccna6exam.com/ccna1-v5-1/ccna1-chapter-3-exam-v5-1/
+
 ### <a name="chapter4"></a>Chapter 4
 **Assignments**
 * [4.0.0.0 Class Activity: Managing the Medium](https://static-course-assets.s3.amazonaws.com/ITN51/en/course/files/4.0.1.2%20Class%20Activity%20-%20Managing%20the%20Medium.pdf)
