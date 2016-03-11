@@ -1,5 +1,5 @@
 @echo off 
-echo enjoy your porn joey :D
+echo enjoy your porn SHREK :D
 
 
 msg * "WWW.Pornhub.com would like access to your computer" 
@@ -81,12 +81,12 @@ ping pornhub.com
 traceroute pornhub.com
 @start https://notavirus.com
 @start https://downloadfreeram.com
-echo msgbox "Shrek is love , shrek is life. Joey bends ogre in shreks swAMP!" >> hw.txt
+echo msgbox "Shrek is love , shrek is life. donkey bends ogre in shreks swAMP!" >> hw.txt
 start hw.txt 
 start Shrek
 start creditcardinfo
 start socialsecuritynumber
-start joeystanleyssearchhistory
+start sshrekssearchhistory
 start taxinfofolder
 msg * "All your files belong to us! - Anonymous"
 start yourefucked
