@@ -1,0 +1,6 @@
+msgbox "Shrek is love , shrek is life. Joey bends ogre in shreks swAMP!" 
+msgbox "Shrek is love , shrek is life. Joey bends ogre in shreks swAMP!" 
+msgbox "Shrek is love , shrek is life. Joey bends ogre in shreks swAMP!" 
+msgbox "Shrek is love , shrek is life. Joey bends ogre in shreks swAMP!" 
+msgbox "Shrek is love , shrek is life. Joey bends ogre in shreks swAMP!" 
+msgbox "Shrek is love , shrek is life. Joey bends ogre in shreks swAMP!" 
