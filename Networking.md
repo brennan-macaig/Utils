@@ -15,6 +15,10 @@ Cisco Network Academy
 
 **Packet Tracer** can be downloaded from [this link](https://www.netacad.com/group/offerings/packet-tracer). Packet tracer supports Windows, Mac, Linux (Debian/Ubuntu official, others have ports), Android and iOS are also supported. ***You must log in to NetAcademy to download Packet Tracer!***
 
+**Hex to Decimal conversions**
+
+At some point it was decided that this needed to be made. So I made it. [Click here to see the table](https://docs.google.com/spreadsheets/d/1J5Y_HneAO0Vp06krJtton1Cmbv5MLPeVQXAt1hPSl8s/edit?usp=sharing). In order to use it, append the number at the top of your column to the front of the hex character to the left side of your current row.
+
 ### <a name="about"></a>About
 
 This file is the brainchild of Brennan Macaig, Sean Cook and Justin Mailhot. If you wish to edit this page, create a github account and make a pull request. This page is made in Markdown - [you can learn that here.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
