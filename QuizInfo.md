@@ -34,6 +34,7 @@ A+-801 Flash-card guide
 |Test|Link|
 |:---|:---|
 |801|[Link](http://www.examcompass.com/comptia-a-plus-practice-test-1-exam-220-801)|
+|801-802|**Lots for 802 here!** [Link](http://www.examcompass.com/comptia/a-plus-certification/free-a-plus-practice-tests)|
 |801|[Link](https://crucialexams.com/study/tests/220-801/comptia-a-plus-220-801-test-1)|
 |802|[Link](https://crucialexams.com/study/tests/220-802/comptia-a-plus-220-802-test-1)|
 |801|[Link](http://goo.gl/IJEGl7)|
